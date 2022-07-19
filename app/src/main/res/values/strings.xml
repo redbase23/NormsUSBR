@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Norms USBR</string>
+    <string name="developer">Developer</string>
+    <string name="section_activity_title">Viewing the norms of section</string>
+    <string name="to_main">Main menu</string>
+    <string name="detail_activity_title">Viewing the norm</string>
+    <string name="diamond_saw_title">Diamond saw norms</string>
+    <string name="developer_name">Belousov Anton</string>
+    <string name="developer_email">redbase23@mail.ru</string>
+
+    <string name="developer_telephone">8–926–479–32–00</string>
+    <string name="Enter_number">Enter the number</string>
+    <string name="norm_number">Norm number:</string>
+    <string name="Search_by_number">Search by number</string>
+    <string name="Norm_is_not_found">Norm is not found</string>
+    <string name="measure">Measure</string>
+    <string name="consumption">Consumption:</string>
+
+    <string name="asphalt">Asphalt</string>
+    <string name="beton">Beton</string>
+    <string name="green_beton">Green Beton</string>
+    <string name="low_grade_beton">Low grade Beton</string>
+    <string name="dry">Dry cutting</string>
+    <string name="facet">Facet</string>
+    <string name="saw_material">Saw material</string>
+
+    <string name="single_cut">Single cut</string>
+    <string name="sandwich_two">Sandwich of two</string>
+    <string name="sandwich_three">Sandwich of three</string>
+
+    <string name="show_norm">Show a norm</string>
+    <string name="sandwich_four">Sandwich of four</string>
+    <string name="sandwich_five">Sandwich of five</string>
+    <string name="sandwich_six">Sandwich of six</string>
+    <string name="sandwich_seven">Sandwich of seven</string>
+    <string name="sandwich_eight">Sandwich of eight</string>
+    <string name="m2">m2</string>
+    <string name="p_m_">p.m.</string>
+
+</resources>

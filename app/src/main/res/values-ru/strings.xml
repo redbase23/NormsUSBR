@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Нормы УСБР</string>
+    <string name="developer">Разработчик</string>
+    <string name="section_activity_title">Просмотр норм раздела</string>
+    <string name="to_main">Главное меню</string>
+    <string name="detail_activity_title">Просмотр нормы</string>
+    <string name="developer_name">Белоусов Антон / Belousov Anton</string>
+    <string name="developer_email">redbase23@mail.ru</string>
+
+    <string name="developer_telephone">8–926–479–32–00</string>
+    <string name="Enter_number">Введи номер</string>
+    <string name="Search_by_number">Поиск по номеру</string>
+    <string name="Norm_is_not_found">Норма не найдена</string>
+    <string name="measure">Ед.изм.</string>
+    <string name="m2">м2</string>
+    <string name="p_m_">п.м.</string>
+    <string name="asphalt">Асфальтобетон</string>
+    <string name="beton">Цементобетон</string>
+    <string name="green_beton">Свежеуложенный бетон</string>
+    <string name="low_grade_beton">Низкомарочный бетон</string>
+    <string name="diamond_saw_title">Нормы на алмазные диски</string>
+    <string name="saw_material">Нарезаемый материал</string>
+    <string name="single_cut">Одиночный рез</string>
+    <string name="sandwich_two">Пакет из двух дисков</string>
+    <string name="sandwich_three">Пакет из трёх дисков</string>
+    <string name="sandwich_four">Пакет из четырёх дисков</string>
+    <string name="sandwich_five">Пакет из пяти дисков</string>
+    <string name="sandwich_six">Пакет из шести дисков</string>
+    <string name="sandwich_seven">Пакет из семи дисков</string>
+    <string name="sandwich_eight">Пакет из восьми дисков</string>
+    <string name="show_norm">Показать норму</string>
+    <string name="dry">Сухорез</string>
+    <string name="facet">Снятие фаски</string>
+    <string name="norm_number">Номер нормы:</string>
+    <string name="consumption">Расход:</string>
+
+</resources>
